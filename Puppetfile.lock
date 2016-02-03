@@ -79,6 +79,11 @@ GITHUBTARBALL
     ruby (8.5.4)
 
 GITHUBTARBALL
+  remote: boxen/puppet-sourcetree
+  specs:
+    sourcetree (1.0.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-sudo
   specs:
     sudo (1.0.0)
@@ -122,6 +127,7 @@ DEPENDENCIES
   pkgconfig (= 1.0.0)
   repository (= 2.4.1)
   ruby (= 8.5.4)
+  sourcetree (= 1.0.0)
   stdlib (= 4.7.0)
   sudo (= 1.0.0)
   xquartz (= 1.2.1)
